@@ -10,8 +10,7 @@ In CMS the most widely used jet is anti-kT 0.5 (0.7 for QCD measurements). For p
 Jet substructure is currently a very popular tool to analyze jets that are produced from heavy objects such as top quarks, Higgs bosons, W/Z bosons, or any beyond-Standard-Model hadronically-decaying object. Jet pruning algorithm is designed to find heavy objects within a jet, and in the process, removes soft and wide-angle clusters from the clustering sequence. Traditional techniques start to lose sensitivity (in part) due to jet merging at higher masses. Therefore, we cannot rely on methods to assign partons to jets anymore and have to consider cases where partons merge into a single jet. We consider two types of jets:
 	Top Jets
 If a top quark or other heavy object is produced with enough energy its decay products can be reconstructed within one jet. Substructure can be used to identify these jets; top jets produce at least 3 sub-jets, where two of the sub-jets should have the W mass and third should have the top mass.
-
-	-W Jets
+	W Jets
 A partially merged boosted top results in a W jet and a b jet. W jets can be identified using jet and sub-jet properties:
 	Jet mass = W mass
 	Two sub-jets
