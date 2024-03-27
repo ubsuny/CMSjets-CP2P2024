@@ -11,7 +11,7 @@ Jet substructure is currently a very popular tool to analyze jets that are produ
 	Top Jets
 If a top quark or other heavy object is produced with enough energy its decay products can be reconstructed within one jet. Substructure can be used to identify these jets; top jets produce at least 3 sub-jets, where two of the sub-jets should have the W mass and third should have the top mass.
 
-	W Jets
+	-W Jets
 A partially merged boosted top results in a W jet and a b jet. W jets can be identified using jet and sub-jet properties:
 	Jet mass = W mass
 	Two sub-jets
